@@ -1,7 +1,7 @@
 Hi there! <h1 align="center">Emily</h1>
 <h3 align="center">Freelance Illustrator, Full-time Data Lover</h3>
 
-Currently working on the latest official AO3 data release. Stay tuned!
+Currently working on analyzing the latest official AO3 data release. Shout out to the awesome team at archiveofourown.org! Stay tuned for more data visualization! Repos will become public shortly.
 
 - 👨‍💻 Illustration showcase [https://www.behance.net/amykz](https://www.behance.net/amykz)
 

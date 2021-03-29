@@ -1,6 +1,8 @@
 Hi there! <h1 align="center">Emily</h1>
 <h3 align="center">Freelance Illustrator, Full-time Data Lover</h3>
 
+Currently working on the latest official AO3 data release. Stay tuned!
+
 - 👨‍💻 Illustration showcase [https://www.behance.net/amykz](https://www.behance.net/amykz)
 
 - 📝 Personal Blog [https://amelynel.wordpress.com/](https://amelynel.wordpress.com/)

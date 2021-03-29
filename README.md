@@ -1,4 +1,4 @@
-<h1 align="center">Hi there</h1>
+Hi there! <h1 align="center">Emily</h1>
 <h3 align="center">Freelance Illustrator, Full-time Data Lover</h3>
 
 - 👨‍💻 Illustration showcase [https://www.behance.net/amykz](https://www.behance.net/amykz)

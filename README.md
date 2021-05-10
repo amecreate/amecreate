@@ -5,8 +5,6 @@ Currently working on analyzing the latest official AO3 data release: [A Look Int
 
 - 👨‍💻 Illustration showcase [https://www.behance.net/amykz](https://www.behance.net/amykz)
 
-- 📝 Personal Blog [https://amelynel.wordpress.com/](https://amelynel.wordpress.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.behance.net/amykz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="amykz" height="30" width="40" /></a>

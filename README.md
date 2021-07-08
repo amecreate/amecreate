@@ -3,7 +3,8 @@ Hi there! <h1 align="center">Emily</h1>
 
 Currently working on:
 
-- :hourglass: Data Analysis: analyzing the latest official AO3 data release: [A Look Into AO3 Data](https://amecreate.github.io/ao3-data-vis)
+- :hourglass: Data Analysis: analyzing the latest official AO3 data release on [A Look Into AO3 Data](https://amecreate.github.io/ao3-data-vis)
+- :memo: Userscript: creating and maintening user scripts for various websites on Tampermonkey.
 - :video_game: Game development: developing HTML games with Phaser 3 engine on itch.io
 
 Portfolio Showcase:

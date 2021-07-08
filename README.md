@@ -1,9 +1,15 @@
 Hi there! <h1 align="center">Emily</h1>
 <h3 align="center">Freelance Illustrator, Full-time Data Lover</h3>
 
-Currently working on analyzing the latest official AO3 data release: [A Look Into AO3 Data](https://amecreate.github.io/ao3-data-vis)
+Currently working on:
 
-- 👨‍💻 Illustration showcase [https://www.behance.net/amykz](https://www.behance.net/amykz)
+- :hourglass: Data Analysis: analyzing the latest official AO3 data release: [A Look Into AO3 Data](https://amecreate.github.io/ao3-data-vis)
+- :video_game: Game development: developing HTML games with Phaser 3 engine on itch.io
+
+Portfolio Showcase:
+
+- :art: Illustration [https://www.behance.net/amykz](https://www.behance.net/amykz)
+- :clapper: Indie Game [Morning Café](https://amyl.itch.io/morning-caf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

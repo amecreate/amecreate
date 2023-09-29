@@ -3,10 +3,16 @@ Hi there! <h1 align="center">Emily</h1>
 
 Currently working on:
 
-- :seedling: Software Development: developing software and platforms for next gen agriculture technologies
+- :seedling: Software Engineering: designing software and platforms for next gen agriculture technologies
 - :black_nib: Blogging: digitalizing sixteen plus years of hand-written journals
 
-Project Highlights:
+Highlights:
+
+- Automation system with Node-RED, MQTT and various visualization tools
+- 3D Model in Augmented Reality with Blender and Three.js
+- Full stack development and software system engineering
+
+Past Projects:
 
 - :hourglass: Data Analysis: analyzing the latest official AO3 data release on [A Look Into AO3 Data](https://amecreate.github.io/ao3-data-vis)
 - :memo: Userscript: creating and maintening user scripts for various websites on Tampermonkey.

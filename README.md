@@ -3,14 +3,9 @@ Hi there! <h1 align="center">Emily</h1>
 
 Currently working on:
 
-- :seedling: Software Engineering: designing software and platforms for next gen agriculture technologies
-- :black_nib: Blogging: digitalizing sixteen plus years of hand-written journals
-
-Highlights:
-
-- Automation system with Node-RED, MQTT and various visualization tools
-- 3D Model in Augmented Reality with Blender and Three.js
+- Data analysis and SEO optimization
 - Full stack development and software system engineering
+- Localization for an open-source project with 7 million registered users
 
 Past Projects:
 
